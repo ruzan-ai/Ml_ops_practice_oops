@@ -1,0 +1,16 @@
+Class and obj (example)
+Class has data/ attribute and func/methods 
+    > code walkthroug 
+    > attribute gets called itself, methods are called manually. 
+
+# what is the use of constructor ? 
+__init__ 
+func vs method 
+
+3. Why is python called oop ?
+everthing in python is an object (data structure, data type etc)
+    > you can create your own data type in python.
+    >code resusability
+    > debugging
+    > easy to collab
+    
