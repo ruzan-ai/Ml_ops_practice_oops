@@ -13,4 +13,14 @@ everthing in python is an object (data structure, data type etc)
     >code resusability
     > debugging
     > easy to collab
-    
+
+5. End to End project (Chat Class)
+    > funciton vs method
+    > magic method or dunder method
+    > self
+    > You can create attribute outside class as well 
+
+    > encapsulation
+    > getter and setter
+    > static method
+
